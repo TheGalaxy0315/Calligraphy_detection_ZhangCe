@@ -1,0 +1,19 @@
+# 训练和测试数据的位置，一定要注意，此路径表明训练文件不能放在当前目录下
+train: ../data/shufa/train
+test: ../data/shufa/test
+# 训练集被分割后对象文件存储路径
+Xy_root: ./Xys
+
+# 模型训练后的路径
+model_root: ./models
+
+# 字体风格列表
+char_styles:
+  - 篆书
+  - 隶书
+  - 草书
+  - 行书
+  - 楷书
+
+# 图片调整大小的目标尺寸
+new_size: [100, 100]
