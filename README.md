@@ -1,5 +1,8 @@
-# 书法识别
-## 项目描述
+# 书法识别  辽宁工程技术大学  软件研23-1张策472321766
+<div align="center">
+  < img src="https://github.com/TheGalaxy0315/Calligraphy_detection_ZhangCe/edit/master/HOG的训练结果.png">
+</div>
+47## 项目描述
 
 本项目是一个书法字体风格识别器，通过输入图片，识别出图片中的书法字体风格。项目包含以下文件：
 - `0_setting.yaml`：配置文件，包含书法字体风格列表、图片调整大小的目标尺寸等设置。
