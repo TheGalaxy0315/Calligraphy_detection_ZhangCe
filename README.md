@@ -1,7 +1,7 @@
 # 书法识别  辽宁工程技术大学  软件研23-1张策472321766
 
 <div align="center">
-  < img src="[HOG的训练结果.png](https://github.com/TheGalaxy0315/Calligraphy_detection_ZhangCe/blob/master/HOG%E7%9A%84%E8%AE%AD%E7%BB%83%E7%BB%93%E6%9E%9C.png)">
+  < img src="https://github.com/TheGalaxy0315/Calligraphy_detection_ZhangCe/blob/master/HOG%E7%9A%84%E8%AE%AD%E7%BB%83%E7%BB%93%E6%9E%9C.png)">
 </div>
 
 47## 项目描述
